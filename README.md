@@ -47,6 +47,19 @@ An end-to-end analytics project that transforms 51,000+ raw retail sales records
 
 ---
 
+## Project Structure 
+
+| ─── Data
+|  ├── Raw_SuperStore_Cleaned_Data
+|  ├── Cleaned_SuperStore_Data
+| ─── Images
+|  ├── Dashboard_preview.png
+| ─── power BI
+| ─── Global_Super_Store_Sales_Dashboard.pbix
+| ─── Readme.md
+| ─── super_store_final_project.sql
+
+
 ## 📸 Dashboard Preview
 
 ---[Dashboard](images./dashboard_preview.png)
