@@ -139,7 +139,7 @@ This project was developed to simulate how a Data Analyst supports business deci
 
 ## 📸 Dashboard Preview
 
----[Dashboard](images./dashboard_preview.png)
+---[Dashboard](images./Dashboard.png)
 
 ## 💡 Key Business Insights
 
@@ -176,6 +176,7 @@ Throughout this project, advanced SQL techniques were applied to solve real-worl
 - ✅ Date Functions
 - ✅ Subqueries
 - ✅ Business KPI Calculations
+- 
 ## 🚀 Skills Demonstrated
 
 - Data Cleaning
