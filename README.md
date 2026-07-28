@@ -24,6 +24,46 @@ The project simulates a real business scenario where management needs data-drive
 - Built interactive Power BI dashboards
 - Generated business insights and recommendations
 - Created KPI-driven visual reports for decision-making
+
+- ## 🛠 Tech Stack
+
+| Category | Technologies |
+|----------|--------------|
+| Database | PostgreSQL |
+| Query Language | SQL |
+| Data Cleaning | Excel, |
+| Data Analysis | SQL, |
+| Data Visualization | Power BI |
+| Data Transformation | Power Query |
+| Business Intelligence | Power BI |
+| Version Control | Git & GitHub |
+
+## 🔄 Project Workflow
+
+Raw Dataset
+⬇
+Data Cleaning (Excel)
+⬇
+Database Creation (PostgreSQL)
+⬇
+SQL Analysis
+⬇
+Data Transformation (Power Query)
+⬇
+Power BI Dashboard Development
+⬇
+Business Insights & Recommendations
+
+## ⭐ Key Features
+
+- 📊 Processed and analyzed **51,000+ retail sales records**
+- 🧹 Cleaned and transformed raw data using **Excel & Python**
+- 🗄 Designed and queried a **PostgreSQL** database
+- 📝 Performed advanced SQL analysis using **Joins, Aggregations, CASE Statements, Window Functions, and CTEs**
+- 📈 Built interactive **Power BI dashboards** with KPI cards, slicers, and drill-down analysis
+- 📦 Analyzed sales, profit, customers, products, regions, and shipping performance
+- 💡 Generated actionable business insights to support data-driven decision-making
+- 📋 Applied real-world data analytics workflow from raw data to executive dashboard
 ## What this dashboard answers
 - Which regions and product categories drive the most profit — and which underperform?
 - How does discounting affect margin across product lines?
