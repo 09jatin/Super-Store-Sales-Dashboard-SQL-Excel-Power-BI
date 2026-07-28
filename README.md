@@ -1,4 +1,8 @@
 # 📊 Super-Store-Sales-Dashboard-SQL-Excel-Power-BI
+p align="center">
+  <img src="Images/dashboard.png" width="900">
+</p>
+
 
 ### End-to-End Data Analytics Project | SQL • PostgreSQL • Excel  • Power BI
 
