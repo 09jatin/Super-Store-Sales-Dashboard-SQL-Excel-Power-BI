@@ -4,6 +4,14 @@
 </p>
 
 
+## 📌 Repository Status
+
+![GitHub Repo stars](https://img.shields.io/github/stars/09jatin/Super-Store-Sales-Dashboard-SQL-Excel-Power-BI?style=for-the-badge)
+![GitHub Forks](https://img.shields.io/github/forks/09jatin/Super-Store-Sales-Dashboard-SQL-Excel-Power-BI?style=for-the-badge)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/09jatin/Super-Store-Sales-Dashboard-SQL-Excel-Power-BI?style=for-the-badge)
+![License](https://img.shields.io/github/license/09jatin/Super-Store-Sales-Dashboard-SQL-Excel-Power-BI?style=for-the-badge)
+
+
 ### End-to-End Data Analytics Project | SQL • PostgreSQL • Excel  • Power BI
 
 > An end-to-end retail sales analytics project that transforms **51,000+ sales records** into actionable business insights using SQL, PostgreSQL, Excel, and Power BI.
