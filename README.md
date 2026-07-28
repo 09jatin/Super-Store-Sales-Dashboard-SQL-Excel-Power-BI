@@ -79,6 +79,7 @@ This project was developed to simulate how a Data Analyst supports business deci
 - What are the monthly and yearly sales trends?
 - Which shipping modes provide the best business performance?
 - How can management improve overall profitability?
+- 
 ## What this dashboard answers
 - Which regions and product categories drive the most profit — and which underperform?
 - How does discounting affect margin across product lines?
@@ -93,15 +94,6 @@ This project was developed to simulate how a Data Analyst supports business deci
 - Dynamic slicers and drill-through tooltips for region/category-level detail
 - Cleaned and de-duplicated dataset using SQL and Power Query prior to modeling
 
-## 🔍 Business Insights
-
-- Technology generates the highest sales.
-- Consumer segment contributes the largest share of revenue.
-- Sales show seasonal fluctuations across months.
-- A few products contribute significantly to overall sales.
-- Regional performance varies across different markets.
-
----
 ## 📌 Recommendations
 
 - Optimize discount strategies to improve overall profitability.
@@ -112,16 +104,7 @@ This project was developed to simulate how a Data Analyst supports business deci
 - Improve Standard Class delivery efficiency while promoting premium shipping options.
 - Plan inventory and marketing campaigns ahead of peak seasons.
 - Review pricing, procurement costs, and discount strategies for consistently loss-making products.
-
-  ---
-
-## 📂 Project Files
-
-- Global_Superstore_Sales_Dashboard.pbix
-- Superstore Dataset
-- Dashboard Screenshot
-- README.md
-
+- 
 ---
 
 ## Project Structure 
@@ -129,23 +112,19 @@ This project was developed to simulate how a Data Analyst supports business deci
 | ─── Data
 |  ├── Raw_SuperStore_Cleaned_Data
 |  ├── Cleaned_SuperStore_Data
+| ─── Power BI
+|  ├── Global_Super_Store_Sales_Dashboard.pbix
+| ─── SQL
+|  ├──Business_Analysis.sql
 | ─── Images
 |  ├── Dashboard_preview.png
-| ─── power BI
-| ─── Global_Super_Store_Sales_Dashboard.pbix
 | ─── Readme.md
-| ─── super_store_final_project.sql
+
 
 
 ## 📸 Dashboard Preview
 
 Dashboard screenshot: [Dashboard](images./dashboard_preview.png)
-
-
-
-## 🎥 Dashboard Demo
-
-📹 Watch the dashboard demo here: [Dashboard Demo](images./Dashboard_Demo.mp4)
 
 ## 💡 Key Business Insights
 
