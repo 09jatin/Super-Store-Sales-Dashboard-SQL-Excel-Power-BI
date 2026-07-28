@@ -28,18 +28,12 @@ The project simulates a real business scenario where management needs data-drive
 - Generated business insights and recommendations
 - Created KPI-driven visual reports for decision-making
 
-- ## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-| Category | Technologies |
-|----------|--------------|
-| Database | PostgreSQL |
-| Query Language | SQL |
-| Data Cleaning | Excel, |
-| Data Analysis | SQL, |
-| Data Visualization | Power BI |
-| Data Transformation | Power Query |
-| Business Intelligence | Power BI |
-| Version Control | Git & GitHub |
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ## 🔄 Project Workflow
 
