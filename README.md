@@ -141,6 +141,13 @@ This project was developed to simulate how a Data Analyst supports business deci
 
 ---[Dashboard](images./Dashboard.png)
 
+images./Screen Recording 2026-07-28 140502.mp4
+
+## 🎥 Dashboard Demo
+
+📹 Watch the dashboard demo here: [Dashboard Demo](images./Screen Recording 2026-07-28 140502.mp4
+)
+
 ## 💡 Key Business Insights
 
 - 📈 Processed and analyzed **51,000+ retail sales records** to uncover sales, profit, and customer trends.
