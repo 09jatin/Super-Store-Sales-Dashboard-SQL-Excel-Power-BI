@@ -139,7 +139,7 @@ This project was developed to simulate how a Data Analyst supports business deci
 
 ## 📸 Dashboard Preview
 
-Dashboard screenshot: [Dashboard](images./Dashboard.png)
+Dashboard screenshot: [Dashboard](images./dashboard_preview.png)
 
 
 
