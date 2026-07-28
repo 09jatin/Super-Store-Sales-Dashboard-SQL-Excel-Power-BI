@@ -64,6 +64,21 @@ Business Insights & Recommendations
 - 📦 Analyzed sales, profit, customers, products, regions, and shipping performance
 - 💡 Generated actionable business insights to support data-driven decision-making
 - 📋 Applied real-world data analytics workflow from raw data to executive dashboard
+
+- ## 📈 Business Impact
+
+This project was developed to simulate how a Data Analyst supports business decision-making by transforming raw retail sales data into actionable insights.
+
+### Business Questions Solved
+
+- Which product categories generate the highest revenue and profit?
+- Which regions contribute the most to overall sales?
+- How do discounts affect profitability?
+- Which products should be prioritized or discontinued?
+- Which customer segments generate maximum revenue?
+- What are the monthly and yearly sales trends?
+- Which shipping modes provide the best business performance?
+- How can management improve overall profitability?
 ## What this dashboard answers
 - Which regions and product categories drive the most profit — and which underperform?
 - How does discounting affect margin across product lines?
@@ -126,7 +141,41 @@ Business Insights & Recommendations
 
 ---[Dashboard](images./dashboard_preview.png)
 
+## 💡 Key Business Insights
 
+- 📈 Processed and analyzed **51,000+ retail sales records** to uncover sales, profit, and customer trends.
+- 💰 Technology emerged as the highest revenue-generating category, making it the primary business growth driver.
+- 🎯 Higher discounts significantly reduced profit margins, highlighting the need for optimized pricing strategies.
+- 🌍 Regional analysis identified high-performing and underperforming markets, enabling targeted business decisions.
+- 🚚 Standard Class was the most frequently used shipping mode, balancing delivery cost and customer preference.
+- 👥 Repeat customers contributed a substantial share of total revenue, emphasizing the importance of customer retention.
+- 📅 Sales consistently peaked during the holiday season, supporting better inventory and marketing planning.
+- 📦 Pareto analysis showed that a small percentage of products generated the majority of total sales.
+
+## 🛠 SQL Skills Demonstrated
+
+Throughout this project, advanced SQL techniques were applied to solve real-world business problems and generate actionable insights.
+
+### SQL Concepts Used
+
+- ✅ SELECT, WHERE, ORDER BY
+- ✅ GROUP BY & HAVING
+- ✅ INNER JOIN
+- ✅ Aggregate Functions
+- ✅ CASE WHEN Statements
+- ✅ Common Table Expressions (CTEs)
+- ✅ Window Functions
+- ✅ RANK() & DENSE_RANK()
+- ✅ LAG()
+- ✅ NTILE()
+- ✅ SUM() OVER()
+- ✅ PARTITION BY
+- ✅ ROLLUP
+- ✅ COALESCE()
+- ✅ NULLIF()
+- ✅ Date Functions
+- ✅ Subqueries
+- ✅ Business KPI Calculations
 ## 🚀 Skills Demonstrated
 
 - Data Cleaning
