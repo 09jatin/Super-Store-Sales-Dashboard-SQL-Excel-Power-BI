@@ -1,7 +1,12 @@
-# Superstore Sales Dashboard
+# 📊 Super Store Sales Analytics Dashboard
 
-An end-to-end analytics project that transforms 51,000+ raw retail sales records into an interactive Power BI dashboard. Covers the full pipeline: data cleaning and modeling with SQL and Power Query, DAX measure creation, and dashboard design — built to answer real business questions around regional performance, product profitability, and customer trends.
+### End-to-End Data Analytics Project | SQL • PostgreSQL • Excel • Python • Power BI
 
+> An end-to-end retail sales analytics project that transforms **51,000+ sales records** into actionable business insights using SQL, PostgreSQL, Excel, Python, and Power BI.
+
+![GitHub last commit](https://img.shields.io/github/last-commit/09jatin/Super-Store-Sales-Dashboard-SQL-Excel-Power-BI)
+![GitHub repo size](https://img.shields.io/github/repo-size/09jatin/Super-Store-Sales-Dashboard-SQL-Excel-Power-BI)
+![GitHub stars](https://img.shields.io/github/stars/09jatin/Super-Store-Sales-Dashboard-SQL-Excel-Power-BI?style=social)
 ## What this dashboard answers
 - Which regions and product categories drive the most profit — and which underperform?
 - How does discounting affect margin across product lines?
