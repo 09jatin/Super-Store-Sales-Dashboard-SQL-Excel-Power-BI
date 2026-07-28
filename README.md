@@ -1,8 +1,8 @@
 # 📊 Super-Store-Sales-Dashboard-SQL-Excel-Power-BI
 
-### End-to-End Data Analytics Project | SQL • PostgreSQL • Excel • Python • Power BI
+### End-to-End Data Analytics Project | SQL • PostgreSQL • Excel  • Power BI
 
-> An end-to-end retail sales analytics project that transforms **51,000+ sales records** into actionable business insights using SQL, PostgreSQL, Excel, Python, and Power BI.
+> An end-to-end retail sales analytics project that transforms **51,000+ sales records** into actionable business insights using SQL, PostgreSQL, Excel, and Power BI.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/09jatin/Super-Store-Sales-Dashboard-SQL-Excel-Power-BI)
 ![GitHub repo size](https://img.shields.io/github/repo-size/09jatin/Super-Store-Sales-Dashboard-SQL-Excel-Power-BI)
@@ -20,7 +20,6 @@ The project simulates a real business scenario where management needs data-drive
 
 - Cleaned and transformed 51,000+ retail sales records
 - Performed SQL-based business analysis
-- Conducted Exploratory Data Analysis (EDA) using Python
 - Built interactive Power BI dashboards
 - Generated business insights and recommendations
 - Created KPI-driven visual reports for decision-making
