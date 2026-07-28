@@ -1,4 +1,4 @@
-# 📊 Super Store Sales Analytics Dashboard
+# 📊 Super-Store-Sales-Dashboard-SQL-Excel-Power-BI
 
 ### End-to-End Data Analytics Project | SQL • PostgreSQL • Excel • Python • Power BI
 
