@@ -187,3 +187,9 @@ Throughout this project, advanced SQL techniques were applied to solve real-worl
 - 💼 LinkedIn: https://www.linkedin.com/in/jatinpatidar09
 - 💻 GitHub: https://github.com/09jatin
 - 📧 Email: jatinpatidar606@gmail.com
+
+- ## ⭐ Support
+
+If you found this project useful, consider giving it a ⭐ on GitHub.
+
+Feedback and suggestions are always welcome.
