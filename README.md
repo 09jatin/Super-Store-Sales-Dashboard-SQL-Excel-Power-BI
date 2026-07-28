@@ -1,5 +1,5 @@
 # 📊 Super-Store-Sales-Dashboard-SQL-Excel-Power-BI
-p align="center">
+<p align="center">
   <img src="images./dashboard_preview.png" width="900">
 </p>
 
