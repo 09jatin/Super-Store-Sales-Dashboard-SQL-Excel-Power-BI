@@ -174,15 +174,16 @@ Throughout this project, advanced SQL techniques were applied to solve real-worl
 - Interactive Reporting
 
 ---
-
 ## 👨‍💻 Author
 
 **Jatin Patidar**
 
-📧 Email: jatinpatidar606@gmail.com
+- 🎓 B.Tech (Electronics & Communication Engineering)
+- 📊 Aspiring Data Analyst
+- 💻 Skills: SQL, PostgreSQL, Python, Excel, Power BI, Git & GitHub
 
-🔗 LinkedIn: https://linkedin.com/in/jatinpatidar09
+### Connect with Me
 
-🔗 GitHub: https://github.com/09jatin
-
-🔗 Portfolio https://portfolio-builder-1--jatinpatidar606.replit.app/
+- 💼 LinkedIn: https://www.linkedin.com/in/jatinpatidar09
+- 💻 GitHub: https://github.com/09jatin
+- 📧 Email: jatinpatidar606@gmail.com
